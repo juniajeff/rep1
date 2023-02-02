@@ -1,4 +1,4 @@
-# rep1
+# tic-tac-toe game with AI
 tic-tac-toe game
 The game with minimax algorithm
 What is Minimax?
